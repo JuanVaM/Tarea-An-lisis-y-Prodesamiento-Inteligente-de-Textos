@@ -3,7 +3,9 @@
 Integrantes:
 
 Rosales Cañedo Daniela Susana
+
 Suxo Pérez Luis Axel
+
 Valenzuela Marin Juan
 
 Descripción:
